@@ -27,8 +27,8 @@ public class MainActivity extends AppCompatActivity
         numero=findViewById(R.id.txtNumero);
         generar=findViewById(R.id.btn_generar);
         EnviarDatos=findViewById(R.id.btn_enviar_datos);
-        NombreUsuario="Oscar Steeven";
-        ApellidoUsuario="Aguilar Luzuriaga ";
+        NombreUsuario="CLAUDIO ";
+        ApellidoUsuario="ABBOT ";
         generar.setOnClickListener(new View.OnClickListener()
         {
             @Override
