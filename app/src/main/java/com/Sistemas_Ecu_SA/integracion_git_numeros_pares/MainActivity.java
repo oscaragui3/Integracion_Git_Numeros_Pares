@@ -94,6 +94,7 @@ public class MainActivity extends AppCompatActivity
         i.putExtra("Nombre",misdatos.getNombres());
         i.putExtra("Apellido",misdatos.getApellido());
         startActivity(i);
+        /*HOLA MUNDO ESTO ES UNA PRUEBA DE LA CLASE DE ANDROID STUDIO*/
 
     }
 }
